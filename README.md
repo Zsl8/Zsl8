@@ -1,5 +1,3 @@
----
-
 ### About Me 👤
 
 ```js
@@ -29,5 +27,3 @@ const Zdot = {
 
 ### Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-1/306656522438443009.png)
-
----
