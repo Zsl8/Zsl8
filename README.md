@@ -24,8 +24,8 @@ const Zdot = {
   Name: "Zaid",
   Age: 16,
   From: "Iraq 🇮🇶",
-  Coding since 2020/3/15,
-  Skills: [Js , Py , React js , Node js , Html , Css],
+  Coding since: 2020/3/15,
+  Skills: [Js , Py , ReactJs , NodeJs , Html , Css],
   ProtectionPlus: "discord.gg/ppb"
 };
 ```
