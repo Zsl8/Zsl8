@@ -1,5 +1,21 @@
 ---
 
+
+### About Me 👤
+
+```js
+const Zdot = {
+  Name: "Zaid",
+  Age: 16,
+  From: "Iraq 🇮🇶",
+  Coding since: 2020/3/15,
+  Skills: [Js , Py , ReactJs , NodeJs , Html , Css],
+  ProtectionPlus: "discord.gg/ppb"
+};
+```
+
+---
+
 ### GitHub Stats 🌟
 ![Zsl8's github stats](https://github-readme-stats.vercel.app/api?username=Zsl8&count_private=true&show_icons=true&theme=radical)
 
@@ -16,16 +32,3 @@
 ![Discord](https://discord.c99.nl/widget/theme-1/306656522438443009.png)
 
 ---
-
-### About Me 👤
-
-```js
-const Zdot = {
-  Name: "Zaid",
-  Age: 16,
-  From: "Iraq 🇮🇶",
-  Coding since: 2020/3/15,
-  Skills: [Js , Py , ReactJs , NodeJs , Html , Css],
-  ProtectionPlus: "discord.gg/ppb"
-};
-```
