@@ -7,7 +7,8 @@ const Zdot = {
   From: "Iraq 🇮🇶",
   Coding since: 2020/3/15,
   Skills: [Js , Py , ReactJs , NodeJs , Html , Css],
-  ProtectionPlus: "discord.gg/ppb"
+  ProtectionPlus: "discord.gg/ppb",
+  Discord: "Z.#5155"
 };
 ```
 
