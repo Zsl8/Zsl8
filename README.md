@@ -1,18 +1,3 @@
-### About Me 👤
-
-```js
-const Zdot = {
-    name: "Zaid",
-    age: 16,
-    from: "Iraq",
-    Discord: "Z.#5155",
-    technologies: {
-        backend: ["NodeJS", "express"],
-        frontend: ["ReactJs", "Ejs"],
-    },
-    languages: ["Python", "HTML", "CSS", "JavaScript"]
-};
-```
 ---
 
 ### GitHub Stats 🌟
@@ -29,3 +14,18 @@ const Zdot = {
 
 ### Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-1/306656522438443009.png)
+
+---
+
+### About Me 👤
+
+```js
+const Zdot = {
+  Name: "Zaid",
+  Age: 16,
+  From: "Iraq 🇮🇶",
+  Coding since 2020/3/15,
+  Skills: [Js , Py , React js , Node js , Html , Css],
+  ProtectionPlus: "discord.gg/ppb"
+};
+```
