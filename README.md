@@ -15,7 +15,7 @@ const Zdot = {
 ---
 
 ### GitHub Stats 🌟
-![Zsl8's github stats](https://github-readme-stats.vercel.app/api?username=Zsl8&count_private=true&show_icons=true&theme=radical)
+![Zsl8's github stats](https://github-readme-stats.vercel.app/api?username=Zsl8&count_private=true&show_icons=true&theme=github_dark)
 
 <a href="https://github.com/Zsl8?tab=followers">
   <img src="https://img.shields.io/github/followers/Zsl8">
