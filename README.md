@@ -15,12 +15,11 @@
 ```js
 const Zdot = {
   Name: "Zaid",
-  Age: 16,
+  Age: 18,
   From: "Iraq 🇮🇶",
   Coding since: 2020/3/15,
-  Skills: [Js , Py , ReactJs , NodeJs , Html , Css],
-  ProtectionPlus: "discord.gg/ppb",
-  Discord: "Z.#5155"
+  Skills: [Js, Python, ReactJs, NodeJs, Html , Css, NextJS],
+  Discord: "zd8"
 };
 ```
 
