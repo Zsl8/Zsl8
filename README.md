@@ -15,10 +15,9 @@
 ```js
 const Zdot = {
   Name: "Zaid",
-  Age: 18,
-  From: "Iraq 🇮🇶",
-  Coding since: 2020/3/15,
-  Skills: [Js, Python, ReactJs, NodeJs, Html , Css, NextJS],
+  Age: 19,
+  From: "iraq 🇮🇶",
+  Skills: [js, python, react-js, node-js, html , css, next-js, react-native],
   Discord: "zd8"
 };
 ```
